@@ -22,7 +22,7 @@ optimizations
     hash table lookup for variables
 
 improvements
-*** add macro as a primitive function
+*** add read macros
 *** change ^C exit to include ^D
 */
 
@@ -54,7 +54,7 @@ void add_history(char* unused) {}
 mpc_parser_t* Number; // c numbers
 mpc_parser_t* Symbol; 
 mpc_parser_t* String; // c string
-mpc_parser_t* Comment; // commensts like this ;
+mpc_parser_t* Comment; // comments like this ;
 mpc_parser_t* Sexpr; // conventional s-expression
 mpc_parser_t* Qexpr; // 'quoted' q-expression, not eval-ed
 mpc_parser_t* Expr; 

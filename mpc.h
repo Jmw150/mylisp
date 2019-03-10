@@ -1,6 +1,3 @@
-
-
-
 #ifndef mpc_h
 #define mpc_h
 
