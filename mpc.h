@@ -1,3 +1,7 @@
+/*
+ Credit to fellow C lover and lisper Daniel Holden. This is his parser combinator.
+*/
+
 #ifndef mpc_h
 #define mpc_h
 
