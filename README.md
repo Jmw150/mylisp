@@ -7,18 +7,6 @@ What do:
 - very literal form of lisp 
 
 Motivation:
-- I wanted to try making a language. 
-- I find that C, fundamentally does not have clean lexical scope or first order functions.
-- I think of lisp more as a mathematical concept, than a programming language. It is a list processing API.
+- Exploratory programming
 - First order functions make everything else possible. (logics, modern algebras, etc..)
-
-Inspiration:
-- chicken scheme
-- picolisp
-- metamath
-
-What do (someday):
-- extend C programs (forms top layer on C standard functions)
-- can be used to make logic systems, and other paradigms (via first order functions)
-- written to compile almost anywhere (via C99)
-
+- To have an API over C programs
