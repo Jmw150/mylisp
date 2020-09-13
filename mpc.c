@@ -1,7 +1,3 @@
-/*
- Credit to fellow C lover and lisper Daniel Holden. This is his parser combinator.
-*/
-
 #include "mpc.h"
 
 /*
